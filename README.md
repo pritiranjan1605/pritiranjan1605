@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Priti Ranjan and I'm a front end developer</p>
+<p align="left">My name is Priti Ranjan and I'm a front-end developer</p>
 
 ###
 
